@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1484955477,
+	"version": 1484956257,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -17,7 +17,7 @@
 		"images/otherpool-sheet0.png",
 		"images/pool1-sheet0.png",
 		"images/restartbutton-sheet0.png",
-		"images/spritefont.png",
+		"images/puanindicator.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
