@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1485025805,
+	"version": 1485036800,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -21,6 +21,10 @@
 		"images/pool1-sheet0.png",
 		"images/restartbutton-sheet0.png",
 		"images/sprite-sheet0.png",
+		"media/bare_feet_walk_on_wood.ogg",
+		"media/battle_agony_moans.ogg",
+		"media/large_bubbles_surfacing.ogg",
+		"media/red_hot_son.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
