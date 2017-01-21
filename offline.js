@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1484993873,
+	"version": 1485007831,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -13,17 +13,19 @@
 		"images/physicswaterinstance-sheet0.png",
 		"images/havuz-sheet0.png",
 		"images/clouds-sheet0.png",
+		"images/highscorestitle.png",
+		"images/sendscores-sheet0.png",
 		"images/staticwater-sheet0.png",
 		"images/otherpool-sheet0.png",
 		"images/pool1-sheet0.png",
 		"images/restartbutton-sheet0.png",
-		"images/puanindicator.png",
 		"images/sprite-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
 		"icon-128.png",
 		"icon-256.png",
-		"loading-logo.png"
+		"loading-logo.png",
+		"firebase.js"
 	]
 }
