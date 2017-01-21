@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1485021417,
+	"version": 1485025805,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -10,11 +10,10 @@
 		"images/canvas.png",
 		"images/platform-sheet0.png",
 		"images/player-sheet0.png",
-		"images/player-sheet1.png",
-		"images/player-sheet2.png",
 		"images/physicswaterinstance-sheet0.png",
 		"images/havuz-sheet0.png",
 		"images/clouds-sheet0.png",
+		"images/city-sheet0.png",
 		"images/highscorestitle.png",
 		"images/sendscores-sheet0.png",
 		"images/staticwater-sheet0.png",
