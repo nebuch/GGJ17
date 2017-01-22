@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1485037077,
+	"version": 1485054713,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -10,6 +10,7 @@
 		"images/canvas.png",
 		"images/platform-sheet0.png",
 		"images/player-sheet0.png",
+		"images/player-sheet1.png",
 		"images/physicswaterinstance-sheet0.png",
 		"images/havuz-sheet0.png",
 		"images/clouds-sheet0.png",
@@ -21,10 +22,12 @@
 		"images/pool1-sheet0.png",
 		"images/restartbutton-sheet0.png",
 		"images/sprite-sheet0.png",
+		"images/sprite2-sheet0.png",
 		"media/bare_feet_walk_on_wood.ogg",
 		"media/battle_agony_moans.ogg",
 		"media/large_bubbles_surfacing.ogg",
 		"media/red_hot_son.ogg",
+		"media/slap_with_glove.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
